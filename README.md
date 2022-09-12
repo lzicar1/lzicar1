@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<div class="tenor-gif-embed" data-postid="13629562" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/engineer-watch-blue-ball-machine-gif-13629562">Engineer Watch GIF</a> from <a href="https://tenor.com/search/engineer-gifs">Engineer GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+[](https://tenor.com/view/ghost-in-the-shell-keyboard-gif-7519694)
 
 <!--
 **lzicar1/lzicar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
