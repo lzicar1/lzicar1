@@ -1,6 +1,7 @@
 ## Hi there 👋
-- 🧬 I focus on applications of Deep Learning & Artificial intelligence in science (Biology, Chemistry, Physic, Mathematics)
-- Current Status: Working at 
+- 🧬 I focus on applications of Deep Learning & Artificial intelligence in science (Chemistry, Biology, Physic, Mathematics)
+- Current Status: Working at [MAMA AI](https://themama.ai/)
+- This is my personal profile (i am active mainly on my company github profile); contact me on [LinkedIn](www.linkedin.com/in/miroslav-lžičař-1b8842b4) 
 
 ### Interests 🤩
 - Current Projects:
@@ -25,7 +26,7 @@
 - [Biodviser](https://www.biodviser.com/)
     - Promising bioinformatics startup
     - Job Desctiption: Data Science & Machine Learning Research
-- [The MAMA AI](https://themama.ai/)
+- [MAMA AI](https://themama.ai/)
     - Ex-IBM AI Startup
     - Job Desctiption: R&D Scientist position in ML in Chemical Informatics
 - [Charles University](https://cuni.cz/UKEN-1.html)
