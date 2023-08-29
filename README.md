@@ -18,9 +18,6 @@
 - 💬 I’m currently working on more interesting projects, papers and private repositories that will be soon published
 - ⚡ Fun fact: Prior to [Bioinformatics](https://bioinformatika.mff.cuni.cz/program/index.en.html) at [Charles University Prague](https://cuni.cz/UKEN-1.html) I studied [Philosophy at Charles (ÚFAR)](https://ufar.ff.cuni.cz/en/department-2/)
 
-### Academia
-- Studied [Bioinformatics](https://bioinformatika.mff.cuni.cz/program/index.en.html) at [Charles University Prague](https://cuni.cz/UKEN-1.html)
-
 ### Public projects on Github 🎬 
 - (coming soon) [CHEESE API](https://cheese-docs.themama.ai/) – A public API for CHEESE.
 - [Spanning trees search](https://github.com/lzicar1/Spanning-trees-search) – Library for computation and visualisation of spanning trees. (Homework for school)
