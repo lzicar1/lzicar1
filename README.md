@@ -1,13 +1,14 @@
-![](assets/tenor_hands.gif)
 ## Hi there 👋
-
-- 🌱 I’m currently studying [Bioinformatics](https://bioinformatika.mff.cuni.cz/program/index.en.html) at [Charles University Prague](https://cuni.cz/UKEN-1.html)
 - 🧬 I focus on applications of Deep Learning & Artificial intelligence in science (Biology, Chemistry, Physic, Mathematics)
+- Current Status: Working at 
 
 ### Interests 🤩
+- Current Projects:
+    - [CHEESE](https://cheese.themama.ai/) with documentation at [CHEESE-DOCS](https://cheese-docs.themama.ai/). – An ultra-fast AI molecular search over billion-scale molecular databases. Allows for 3D-Shape, Electrostatic and possibly any other trainable metric too.
 - 🔭 My current research interests are:
-    - [Transposable elements](https://en.wikipedia.org/wiki/Transposable_element?oldformat=true)
-    - Molecule Generation
+    - Deep Metric Learning & Isometric Embeddings Theory
+    - Chemoinformatics (molecular similarity, protein-ligand interactions)
+    - Vector Databases
 - 🦘 I am now also somewhat involved in or interested at:
     - Metric Learning
     - Graph Neural Networks
@@ -34,6 +35,8 @@
     - Laser facility 
     - Job Desctiption: Software Development for Femtosecond Diffraction Crystallography Experiments
 
+### Academia
+- Studied [Bioinformatics](https://bioinformatika.mff.cuni.cz/program/index.en.html) at [Charles University Prague](https://cuni.cz/UKEN-1.html)
 
 ### Public projects on Github 🎬 
 - [Spanning trees search](https://github.com/lzicar1/Spanning-trees-search) – Library for computation and visualisation of spanning trees. (Homework for school)
