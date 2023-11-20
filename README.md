@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🧬 I focus on applications of Deep Learning & Artificial intelligence in science (Chemistry, Biology, Physic, Mathematics)
+- 🧬 I focus on applications of Deep Learning & Artificial Intelligence in science: mainly Cheminformatics and Bioinformatics
 - Current Status:
   - Working at [MAMA AI](https://themama.ai/)
   - Open for collaboration! (both academic, opensource or commercial)
