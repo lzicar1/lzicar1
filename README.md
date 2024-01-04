@@ -1,9 +1,4 @@
 ## Hi there 👋
-- 🧬 I focus on applications of Deep Learning & Artificial Intelligence in science: mainly Cheminformatics and Bioinformatics
-- Current Status:
-  - Working at [MAMA AI](https://themama.ai/)
-  - Open for collaboration! (both academic, opensource or commercial)
-- This is my personal profile (i am active mainly on my company github profile); contact me on [LinkedIn](www.linkedin.com/in/miroslav-lžičař-1b8842b4)!
 
 
 <!--
